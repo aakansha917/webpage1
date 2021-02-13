@@ -1,0 +1,96 @@
+* {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+div {
+    margin: 10px;
+    padding: 10px;
+}
+
+.form h1 {
+    color: blue;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: rgb(114, 136, 231);
+}
+
+#bt {
+    color: rgb(7, 7, 88);
+    font-size: 20px;
+}
+
+span {
+    color: rgb(100, 149, 237);
+}
+
+.tb {}
+
+#email {
+    width: 750px;
+    height: 35px;
+    color: black;
+    background: white;
+    margin-left: 10px;
+    padding-left: 8px;
+    font-size: 15px;
+}
+
+#btn {
+    color: cornsilk;
+    background: lightseagreen;
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.form {
+    font-size: 20px;
+}
+
+#d {
+    color: white;
+    background: rgb(42, 29, 218);
+    width: 70px;
+    border: blue;
+}
+
+#d {
+    color: white;
+    background: rgb(42, 29, 218);
+    width: 70px;
+    border: blue;
+}
+
+#s {
+    color: white;
+    background: rgb(16, 199, 55);
+    width: 70px;
+    border: rgb(24, 226, 91);
+}
+
+#i {
+    color: blue;
+    width: 40px;
+}
+
+td {
+    color: blue
+}
+
+#c {
+    color: black;
+    size: 50px;
+    width: 20px;
+}
